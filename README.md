@@ -3,7 +3,7 @@
 
 ## Install
 
-`npm install -g @venustech/heracles`
+`npm install -g @lut0/heracles`
 
 ## Use
 
