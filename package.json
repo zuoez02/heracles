@@ -1,0 +1,16 @@
+{
+  "name": "@lut0/heracles",
+  "version": "0.2.0",
+  "description": "Static tar files management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zuoez02",
+  "license": "MIT",
+  "bin": "./index.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.81.0"
+  }
+}
